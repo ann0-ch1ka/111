@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "motor.h": "c",
+            "encoder.h": "c",
+            "bsp_encoder.h": "c",
+            "motor_pid.h": "c",
+            "bsp.h": "c",
+            "app_motor.h": "c",
+            "main.h": "c",
+            "bsp_motor.h": "c",
+            "tim.h": "c",
+            "irtracking.h": "c"
+        }
+    },
+    "extensions": {}
+}
